@@ -1,0 +1,9 @@
+
+
+html, body{
+    overflow-x: hidden;
+}
+
+.homepage_bg{
+    background: url('../src/assets/homepage/bghome.svg');
+}
